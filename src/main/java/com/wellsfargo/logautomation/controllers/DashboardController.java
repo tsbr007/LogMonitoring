@@ -62,5 +62,9 @@ public class DashboardController {
         // Example: Saving the alerts to the repository
         alertRepository.saveAlerts(alerts);
     }
+    
+    private void testMethod() {
+    	
+    }
 }
 
